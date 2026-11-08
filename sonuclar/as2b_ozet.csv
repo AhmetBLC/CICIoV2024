@@ -1,0 +1,8 @@
+model,Sıralı,Rastgele
+Ezber tablosu (temel çizgi),0.5189 ± 0.0000,1.0000 ± 0.0000
+Yalnızca CAN ID (temel çizgi),0.6266 ± 0.0000,0.7950 ± 0.0006
+Lojistik regresyon,0.6614 ± 0.0000,0.8596 ± 0.0006
+Karar ağacı,0.8026 ± 0.0000,1.0000 ± 0.0000
+Random Forest,0.7212 ± 0.0754,1.0000 ± 0.0000
+MLP,0.6911 ± 0.0000,1.0000 ± 0.0000
+LightGBM,0.8026 ± 0.0000,1.0000 ± 0.0000

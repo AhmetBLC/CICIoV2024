@@ -1,0 +1,8 @@
+specific_class,sirali_bolme_%,rastgele_bolme_%
+BENIGN,99.66,99.76
+DoS,0.16,100.0
+GAS,100.0,100.0
+RPM,9.11,100.0
+SPEED,0.04,100.0
+STEERING_WHEEL,100.0,100.0
+GENEL,89.1,99.79
