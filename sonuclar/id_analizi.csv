@@ -1,8 +1,0 @@
-saldiri,CAN_ID,ID_hex,benzersiz_cerceve,toplam_satir,normal_trafikte_var_mi,bu_ID_ile_normal_cerceve
-DoS,291,0x123,21,74663,False,0
-GAS,513,0x201,2,9991,False,0
-RPM,476,0x1dc,6,34937,False,0
-RPM,513,0x201,4,19963,False,0
-SPEED,344,0x158,4,19962,False,0
-SPEED,513,0x201,1,4989,False,0
-STEERING_WHEEL,128,0x80,3,19977,False,0

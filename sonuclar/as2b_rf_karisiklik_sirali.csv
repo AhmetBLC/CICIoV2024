@@ -1,7 +1,0 @@
-,tahmin_BENIGN,tahmin_DoS,tahmin_GAS,tahmin_RPM,tahmin_SPEED,tahmin_STEERING_WHEEL
-gerçek_BENIGN,244748,0,0,0,0,0
-gerçek_DoS,0,14933,0,0,0,0
-gerçek_GAS,0,0,1999,0,0,0
-gerçek_RPM,0,0,0,5991,4989,0
-gerçek_SPEED,4989,0,0,0,2,0
-gerçek_STEERING_WHEEL,0,0,0,0,0,3996
